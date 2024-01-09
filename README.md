@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Jadhav</h1>
 <h3 align="center">A passionate Java full stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyaz11&label=Profile%20views&color=0e75b6&style=flat" alt="sreyaz11" /> </p>
 
