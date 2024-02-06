@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shreyas Jadhav</h1>
-<h3 align="center">A passionate Java full stack developer</h3>
+<h3 align="center">SoftWare Developer</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyaz11&label=Profile%20views&color=0e75b6&style=flat" alt="sreyaz11" /> </p>
 
-- 🔭 I’m currently working on **Spting Boot**
+- 🔭 I’m currently working on **Omegle Clone app**
 
-- 🌱 I’m currently learning **Three.Js, Micorservices**
+- 🌱 I’m currently learning **.NET & React**
 
 - 👨‍💻 All of my projects are available at here github only 😊
 
